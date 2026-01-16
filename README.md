@@ -72,8 +72,6 @@ NHS-AE-Dashboard/
 ├── data/                # Dataset(s)
 ├── notebooks/           # Jupyter notebook with full report
 ├── dashboard/           # PyQt5 dashboard application
-├── figures/             # Exported charts (optional)
-├── docs/                # Additional documentation
 └── README.md             # Project overview (this file)
 
 ---
